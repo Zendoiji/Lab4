@@ -1,0 +1,15 @@
+    h1,h3,h4,h5,h6{
+        font-family: sans-serif;
+        color:mediumblue;
+    }
+    h2{
+        font-family: sans-serif;
+        color:blueviolet;
+    }
+    ul,ol{
+        font-family: sans-serif;
+        color:rgb(43, 159, 235);
+    }
+    body {
+        background-color:lightcyan;
+      }
